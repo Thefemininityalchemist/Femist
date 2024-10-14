@@ -10,10 +10,4 @@ This website features:
 - **Blog**: Discover insights, tips, and advice on personal growth, femininity, and dating.
 - **Contact**: Get in touch with me for inquiries, collaborations, or to book a session.
 
-## How to View Locally
 
-To view this website locally on your computer:
-
-1. Download or clone this repository using the following command:
-   ```bash
-   git clone https://github.com/yourusername/femininity-alchemist.git
